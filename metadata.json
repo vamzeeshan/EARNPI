@@ -1,0 +1,8 @@
+{
+  "name": "Earn Pi",
+  "description": "A comprehensive financial dashboard and earning platform with AI-driven insights, referral tracking, and secure wallet management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
